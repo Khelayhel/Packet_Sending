@@ -1,0 +1,21 @@
+A computer network is a group of interconnected devices that can communicate with each other and share resources.
+ These devices can include computers, servers, printers, routers, and switches. The purpose of a computer network is to allow these devices to work together to accomplish tasks and share information. Networks can be set up in a variety of ways, including wired and wireless connections. They can also be used for different purposes, such as sharing files, accessing the internet, or running applications. Overall, computer networks are essential for modern communication and collaboration, both in personal and professional settings.
+A computer network refers to a system that enables the interconnection of multiple computers or devices, allowing them to communicate and share resources. This network can be either wired or wireless, depending on the specific requirements and infrastructure. In a wired network, computers are connected through physical cables, such as Ethernet cables, while in a wireless network, communication is facilitated through radio waves. Additionally, computer networks can be classified based on their geographical coverage, such as Local Area Networks (LANs) that cover a small area like a home or office, or Wide Area Networks (WANs) that span larger areas, often connecting multiple LANs. Furthermore, computer networks can also be categorized based on their purpose, such as client-server networks where one or more computers act as servers, providing services to other client computers. Overall, computer networks play a crucial role in facilitating communication, data sharing, and resource utilization among connected devices. 
+A computer network is a collection of interconnected devices, such as computers, servers, routers, switches, and other hardware components, that are linked together to enable communication and data sharing. Networks can be categorized based on their size, geographical range, and purpose. Here are some common types of computer networks:
+
+Local Area Network (LAN): A LAN is a network that covers a small geographical area, such as a home, office, or campus. It allows devices in close proximity to communicate with each other and share resources, such as files, printers, and internet access.
+
+Wide Area Network (WAN): A WAN spans a large geographical area, often connecting multiple LANs together. It utilizes public or private telecommunication links, such as leased lines or the Internet, to enable communication between geographically dispersed locations.
+
+Metropolitan Area Network (MAN): A MAN covers a larger area than a LAN but smaller than a WAN. It typically serves a city or metropolitan region, providing connectivity to various organizations and institutions.
+
+Wireless Network: A wireless network uses wireless signals, such as Wi-Fi (Wireless Fidelity), to connect devices without the need for physical cables. Wi-Fi networks are commonly used in homes, offices, airports, and other public spaces.
+
+Internet: The Internet is a massive global network that connects millions of computers and networks worldwide. It is a WAN that enables communication, information sharing, and access to various services, such as email, websites, and online applications.
+
+Intranet: An intranet is a private network that functions similarly to the Internet but is accessible only to authorized users within an organization. It is often used for internal communication, collaboration, and sharing of resources.
+
+Extranet: An extranet extends an intranet to authorized external users, such as business partners, suppliers, or customers. It allows controlled access to specific resources or information outside the organization's boundaries.
+
+Networks use various protocols and technologies to facilitate communication and data transfer, such as Ethernet, TCP/IP, DNS (Domain Name System), and HTTP (Hypertext Transfer Protocol). Security measures like firewalls, encryption, and authentication mechanisms are employed to protect networks from unauthorized access and data breaches.Khalid Helayhel, Abdulrahman Alanazi, Faisal Alkherayef
+
